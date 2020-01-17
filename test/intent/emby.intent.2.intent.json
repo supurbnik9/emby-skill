@@ -4,5 +4,5 @@
         "artist": "a day to remember"
     },
     "intent_type": "emby.intent",
-    "utterance": "play artist a day to remember from emby"
+    "utterance": "play artist a day to remember"
 }

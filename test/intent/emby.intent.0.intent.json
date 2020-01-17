@@ -4,5 +4,5 @@
         "media": "thrice"
     },
     "intent_type": "emby.intent",
-    "utterance": "play thrice from mb"
+    "utterance": "play thrice"
 }

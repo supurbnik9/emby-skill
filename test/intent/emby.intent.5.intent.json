@@ -4,5 +4,5 @@
         "album": "anyAlbumHere"
     },
     "intent_type": "emby.intent",
-    "utterance": "play album anyAlbumHere from emby"
+    "utterance": "play album anyAlbumHere"
 }

@@ -5,3 +5,4 @@ play artist {artist}
 play album {album}
 play album {album}
 can you play {media}
+can you play {media}
